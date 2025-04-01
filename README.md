@@ -38,6 +38,13 @@
   🔗 Want to contact me? Feel free to email me at <a href="mailto:pardomarco.com@gmail.com">pardomarco.com@gmail.com</a>
 </p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" height="200" />
+</p>
+
+
+
 <details>
   <summary>📊 More Stats...</summary>
 
