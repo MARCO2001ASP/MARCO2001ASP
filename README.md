@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  🔗 Want to contact me? Feel free to email me at <a href="mailto:pardomarco.com@gmail.com">pardomarco.com@gmail.com</a> or visit my <a href="https://github.com/Marco">GitHub</a>.
+  🔗 Want to contact me? Feel free to email me at <a href="mailto:pardomarco.com@gmail.com">pardomarco.com@gmail.com</a>
 </p>
 
 <details>
@@ -54,9 +54,7 @@
 
   ```text
   🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.0% 
-  🌆 Afternoon  364 commits    ████████████░░░░░░░░░░░░░   50.21% 
-  🌃 Night      256 commits    ████████░░░░░░░░░░░░░░░░░   35.31% 
+  🌆 Afternoon  364 commits    ████████████░░░░░░░░░░░░░░░   50.21% 
+  🌃 Night      256 commits    ████████░░░░░░░░░░░░░░░░░░   35.31% 
   🌙 Late Night 47 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.48%
-
-
 
