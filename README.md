@@ -28,7 +28,7 @@
 <h3>⚡️ About Me ⚡️</h3>
 <p>
   🧑‍💻 I am <strong>Marco Antonio Solis Pardo</strong>, a Software Engineering student at <strong>Universidad Politécnica de Pachuca</strong>.<br/>
-  🎓 Currently in my <strong>eighth semester</strong>, finishing my degree soon.<br/>
+  🎓 Currently in my <strong>ninth semester</strong>, finishing my degree soon.<br/>
   💡 Passionate about web development, focusing on <strong>React</strong> and <strong>Node.js</strong>.<br/>
   🌱 Learning about API integration and scalable systems development.<br/>
   📌 Working on projects like <a href="https://mindpeace-one.vercel.app/Intro">MindPeace</a>.<br/>
